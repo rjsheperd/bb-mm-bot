@@ -1,0 +1,4 @@
+{:mattermost {:hook-url "https://<hook-url>"
+              :channel  "<channel>"
+              :username "<username>"
+              :icon     "<icon-path>"}}
