@@ -3,11 +3,13 @@
 
 ** Purpose
 
-Send a message to Mattermost using Babashka!
+Send a message to [[https://mattermost.org][Mattermost]] using [[https://babashka.org][Babashka]]!
 
 Need to send alerts to Mattermost when your site is down? Want to post
-automatically post when someone visits your site? Why do something
-cumbersome and have to install Python or set up a new Clojure project?
+automatically post when someone visits your site?
+
+Let's make it easy by using Babashka. That way you can avoid the
+cumbersome installation of Python or have to set up a new Clojure project!
 
 ** Setup
 1. [[https://github.com/babashka/babashka#installation][Install Babashka]]
