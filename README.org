@@ -1,7 +1,7 @@
 #+TITLE: Babashka Mattermost Bot
 #+AUTHOR: RJ Sheperd
 
-* Babashka -> Mattermost Bot
+** Purpose
 
 Send a message to Mattermost using Babashka!
 
