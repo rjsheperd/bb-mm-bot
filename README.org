@@ -1,0 +1,27 @@
+#+TITLE: Babashka Mattermost Bot
+#+AUTHOR: RJ Sheperd
+
+* Babashka -> Mattermost Bot
+
+Send a message to Mattermost using Babashka!
+
+Need to send alerts to Mattermost when your site is down? Want to post
+automatically post when someone visits your site? Why do something
+cumbersome and have to install Python or set up a new Clojure project?
+
+** Setup
+1. [[https://github.com/babashka/babashka#installation][Install Babashka]]
+2. Clone this repo
+3. Copy ~default.config.edn~ to ~config.edn~, and replace the values.
+4. Hit ~./mm-bot~ to run the script.
+5. Profit!
+
+** License
+MIT
+
+** Resources
+- [[https://developers.mattermost.com/integrate/webhooks/incoming/][Mattermost API Docs on Incoming Webhooks]]
+- [[https://book.babashka.org/][Babashka Book]]
+
+** Credits
+- Thanks to [[https://github.com/borkdude][Michiel Borkent]] for creating Babashka!
